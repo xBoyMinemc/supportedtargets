@@ -2,8 +2,7 @@
     "name": "supportedTargets",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
